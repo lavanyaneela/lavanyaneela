@@ -59,6 +59,8 @@ The yardstick for every level: **could I debug this in production at 3am, or hav
 
 ## Building blocks
 
+<div align="Center">
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL"/>
@@ -94,6 +96,8 @@ The yardstick for every level: **could I debug this in production at 3am, or hav
   <img src="https://img.shields.io/badge/GCP-2496ED?style=flat-square" alt="GCP"/>
 </p>
 
+</div>
+
 ## Open work
 
 | Repository | Tests | Coverage | The measurement it produced |
@@ -110,6 +114,11 @@ These share a working style rather than a theme. The uncomfortable number leads:
 
 ## Quick connect
 
+<div align="Center">
+
 [![Email](https://img.shields.io/badge/Email-lavanyaneela%40mycvcareer.com-2dd4bf?style=flat-square&logo=gmail&logoColor=white)](mailto:lavanyaneela@mycvcareer.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-60a5fa?style=flat-square&logo=linkedin&logoColor=white)](LINKEDIN_URL_PLACEHOLDER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-60a5fa?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavanyaneelaai/)
 [![GitHub](https://img.shields.io/badge/GitHub-lavanyaneela-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/lavanyaneela)
+
+</div>
+
