@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-label="Lavanya Neela, AI/ML Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1b2a"/>
+      <stop offset="55%" stop-color="#11263d"/>
+      <stop offset="100%" stop-color="#0b1623"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5eead4">
+        <animate attributeName="stop-color" values="#5eead4;#60a5fa;#5eead4" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#60a5fa">
+        <animate attributeName="stop-color" values="#60a5fa;#c4b5fd;#60a5fa" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#c4b5fd">
+        <animate attributeName="stop-color" values="#c4b5fd;#5eead4;#c4b5fd" dur="9s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="960" height="240" rx="12" fill="url(#bg)"/>
+
+  <!-- neural network motif: signal flows left to right along dashed edges -->
+  <g stroke="url(#edge)" stroke-width="1.5" fill="none" stroke-dasharray="5 11" stroke-linecap="round">
+    <g>
+      <path d="M700 60 L790 44 M700 60 L790 100 M700 60 L790 156"/>
+      <animate attributeName="stroke-dashoffset" from="0" to="-16" dur="1.4s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <path d="M700 120 L790 44 M700 120 L790 100 M700 120 L790 156 M700 120 L790 200"/>
+      <animate attributeName="stroke-dashoffset" from="0" to="-16" dur="1.4s" begin="0.2s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <path d="M700 180 L790 100 M700 180 L790 156 M700 180 L790 200"/>
+      <animate attributeName="stroke-dashoffset" from="0" to="-16" dur="1.4s" begin="0.4s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <path d="M790 44 L880 80 M790 100 L880 80 M790 100 L880 160 M790 156 L880 80 M790 156 L880 160 M790 200 L880 160"/>
+      <animate attributeName="stroke-dashoffset" from="0" to="-16" dur="1.4s" begin="0.6s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <path d="M880 80 L930 120 M880 160 L930 120"/>
+      <animate attributeName="stroke-dashoffset" from="0" to="-16" dur="1.4s" begin="0.8s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <g fill="#0b1623" stroke="#5eead4" stroke-width="2">
+    <circle cx="700" cy="60" r="7">
+      <animate attributeName="stroke-opacity" values="1;0.45;1" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="120" r="7">
+      <animate attributeName="stroke-opacity" values="1;0.45;1" dur="3.6s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="180" r="7">
+      <animate attributeName="stroke-opacity" values="1;0.45;1" dur="3.6s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g fill="#0b1623" stroke="#60a5fa" stroke-width="2">
+    <circle cx="790" cy="44" r="7">
+      <animate attributeName="stroke-opacity" values="1;0.5;1" dur="3.6s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="790" cy="100" r="7">
+      <animate attributeName="stroke-opacity" values="1;0.5;1" dur="3.6s" begin="0.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="790" cy="156" r="7">
+      <animate attributeName="stroke-opacity" values="1;0.5;1" dur="3.6s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="790" cy="200" r="7">
+      <animate attributeName="stroke-opacity" values="1;0.5;1" dur="3.6s" begin="2.1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g fill="#0b1623" stroke="#a78bfa" stroke-width="2">
+    <circle cx="880" cy="80" r="7">
+      <animate attributeName="stroke-opacity" values="1;0.5;1" dur="3.6s" begin="1.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="160" r="7">
+      <animate attributeName="stroke-opacity" values="1;0.5;1" dur="3.6s" begin="1.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <circle cx="930" cy="120" r="9" fill="#0b1623" stroke="#c4b5fd" stroke-width="2.5">
+    <animate attributeName="r" values="9;10.5;9" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="1;0.55;1" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- measurement ticks with a slow scanning marker -->
+  <g stroke="#1f3a56" stroke-width="1">
+    <line x1="56" y1="196" x2="620" y2="196"/>
+    <line x1="56" y1="190" x2="56" y2="202"/>
+    <line x1="197" y1="192" x2="197" y2="200"/>
+    <line x1="338" y1="192" x2="338" y2="200"/>
+    <line x1="479" y1="192" x2="479" y2="200"/>
+    <line x1="620" y1="190" x2="620" y2="202"/>
+  </g>
+  <circle cy="196" r="3" fill="#5eead4" opacity="0.9">
+    <animate attributeName="cx" values="56;620;56" dur="12s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="56" y="104" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="url(#name)">Lavanya Neela</text>
+  <text x="58" y="142" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#9fb3c8" letter-spacing="3">AI/ML ENGINEER</text>
+  <text x="58" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#6c87a3">Ranking, recommendation and the MLOps around them. Measurement before claims.</text>
+</svg>
