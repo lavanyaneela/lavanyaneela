@@ -4,17 +4,18 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lavanyaneela&style=flat-square&color=2dd4bf" alt="profile views"/>
-  <img src="https://img.shields.io/badge/tests_in_open_work-TOTAL_TESTS_PENDING-2dd4bf?style=flat-square" alt="TOTAL_TESTS_PENDING tests"/>
   <a href="https://github.com/lavanyaneela?tab=repositories"><img src="https://img.shields.io/badge/projects-browse-a78bfa?style=flat-square" alt="browse projects"/></a>
 </p>
 
 <table width="100%">
   <tr>
-      <td align="center" width="20%"><div style="font-size:24px">🧭</div><b style="font-size:22px">5+</b><br/><sub><b>YEARS IN ML</b></sub></td>
-      <td align="center" width="20%"><div style="font-size:24px">🚀</div><b style="font-size:22px">10+</b><br/><sub><b>PRODUCTION MODELS</b></sub></td>
-      <td align="center" width="20%"><div style="font-size:24px">✅</div><b style="font-size:22px">TOTAL_TESTS_PENDING</b><br/><sub><b>TESTS IN OPEN WORK</b></sub></td>
-      <td align="center" width="20%"><div style="font-size:24px">📐</div><b style="font-size:22px">35</b><br/><sub><b>DECISION RECORDS</b></sub></td>
-      <td align="center" width="20%"><div style="font-size:24px">🗄️</div><b style="font-size:22px">5</b><br/><sub><b>SQL DIALECTS</b></sub></td>
+    <div align="center">
+      <td align="center" width="25%"><div style="font-size:24px">🧭</div><b style="font-size:22px">5+</b><br/><sub><b>YEARS IN ML</b></sub></td>
+      <td align="center" width="25%"><div style="font-size:24px">🚀</div><b style="font-size:22px">10+</b><br/><sub><b>PRODUCTION MODELS</b></sub></td>
+      </td>
+      <td align="center" width="25%"><div style="font-size:24px">📐</div><b style="font-size:22px">35</b><br/><sub><b>DECISION RECORDS</b></sub></td>
+      <td align="center" width="25%"><div style="font-size:24px">🗄️</div><b style="font-size:22px">5</b><br/><sub><b>SQL DIALECTS</b></sub></td>
+    </div>
   </tr>
 </table>
 
